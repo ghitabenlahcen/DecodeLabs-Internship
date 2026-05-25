@@ -16,7 +16,7 @@ Avant de construire des systèmes qui apprennent par eux-mêmes (deep learning, 
 
 ---
 
-## 🎯 Objectifs pédagogiques
+##  Objectifs pédagogiques
 
 | Compétence | Description |
 |------------|-------------|
@@ -27,7 +27,7 @@ Avant de construire des systèmes qui apprennent par eux-mêmes (deep learning, 
 | ✅ Architecture IPO | Input → Process → Output |
 
 
-## ⚙️ Fonctionnalités
+##  Fonctionnalités
 
 - Répond aux salutations (`bonjour`, `salut`, `coucou`, `hello`)
 - Répond aux questions simples (`qui es-tu`, `ton nom`, `que fais-tu`)
