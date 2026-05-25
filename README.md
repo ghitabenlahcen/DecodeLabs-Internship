@@ -1,12 +1,12 @@
 # DecodeLabs-Internship
-# 🤖 Projet 1 - Rule-Based AI Chatbot
+# Projet 1 - Rule-Based AI Chatbot
 
 **Batch:** 2026  
 **Powered by:** DecodeLabs  
 
 ---
 
-## 📌 À propos du projet
+## À propos du projet
 
 Ce projet constitue la première étape du parcours d'ingénieur IA chez DecodeLabs.
 
